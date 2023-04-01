@@ -11,8 +11,12 @@
             "id": "f8424291878956a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "readme.md"
+              }
             }
           },
           {
@@ -148,19 +156,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "f8424291878956a8",
   "lastOpenFiles": [
+    "_wiki/usufruct.md",
+    "_wiki/L-Dopa.md",
+    "_journal/newinternet.md",
+    "_journal/korean-ginseng-chicken-soup.md",
+    "_journal/jade-post.md",
+    "_journal/exocore-workflow.md",
+    "_journal/chinese-ginseng-chicken-tonic-soup.md",
+    "_articles/Untitled.md",
+    "_daily/2023-04-01.md",
     "ring.md",
     "readme.md",
-    "_articles/Untitled.md",
     "_config.yml.sb-4e2c3c5e-aZFut1",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "assets/imgs/pfp.png",
     "assets/imgs/pfp.jpeg",
     "assets/imgs/969-94628.jpeg",
-    "_daily/2023-04-01.md",
     "_daily/2022-05-11.md",
-    "_journal/chinese-ginseng-chicken-tonic-soup.md",
     "_articles/Exocore Executive Summary.md",
     "Untitled",
     "_articles/Configure Exocore for Personal Use.md",
