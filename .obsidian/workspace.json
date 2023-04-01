@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68bdb0177a6320a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ring.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f8424291878956a8",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,13 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8424291878956a8",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "assets/imgs/pfp.png",
+    "assets/imgs/pfp.jpeg",
+    "assets/imgs/969-94628.jpeg",
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
+    "ring.md",
     "_daily/2023-04-01.md",
     "_articles/Untitled.md",
     "_daily/2022-05-11.md",
     "_journal/chinese-ginseng-chicken-tonic-soup.md",
-    "ring.md",
     "_articles/Exocore Executive Summary.md",
     "Untitled",
     "_articles/Configure Exocore for Personal Use.md",
