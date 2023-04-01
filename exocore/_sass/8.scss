@@ -391,7 +391,7 @@ main { padding: 1em auto; }
   padding: 1em;
   margin: 0;
   font-size: 1em;
-  font-family: $font-family-serif;
+  font-family: serif;
     font-style: italic;
 }
 
@@ -446,7 +446,7 @@ img+em {
 .embed-wrapper {
     border: $embed-border;
     padding: 1em;
-    background-color: $color-embed-background;
+    background-color: black;
     margin-top: 2em;
     margin-bottom: 2em;
     background: white;
@@ -515,8 +515,8 @@ img+em {
 .footnotes {
     border: $footnote-border;
     padding: 1em 0;
-    background-color: $color-footnote-background;
-    color: $color-footnote-text;
+    background-color: black;
+    color: white;
     border-radius: 5px;
 }
 
@@ -525,8 +525,8 @@ img+em {
     line-height: 1.1em;
     color: $color-text;
     font-size: 1rem;
-    border: $article-border;
-    background-color: $color-items;
+    border: 2px solid white;
+    background-color: black;
     display: block;
     padding: 1em;
     max-width: 28em;
@@ -558,11 +558,11 @@ img+em {
 .index-item, .archive-item, .library-item {
     width: 95%;
     margin: auto;
-    background-color: $color-items;
+    background-color: black;
     text-align: left;
     margin-bottom: 1em;
     padding: 0.5em;
-    border: 2px solid $color-primary;
+    border: 2px solid white;
     box-sizing: border-box;
     border-radius: 5px;
     
@@ -618,7 +618,7 @@ font-weight: normal;
 }
 
 .archive-card {
-    background-color: $color-inner-divs;
+    background-color: black;
     width: 100%;
     margin: auto;
 }
@@ -682,7 +682,7 @@ font-weight: normal;
 
 .home-link-button a {
     &:hover {
-    background-color: $background;
+    background-color: black;
     color: black;
     }
 }
@@ -794,103 +794,19 @@ font-weight: normal;
 /* NETWORK GRAPH (BACKLINK VISUAL REPRESENTATION)
 ================================================== */
 
-.network-graph-container {
-    clear: both;
-    margin-top: 1em;
-    display: block;
-    background: $background;
-    border: $article-border;
-    padding: 2em;
-    height: 45em;
-    
-    & h1 {
-        text-align: center;
-        margin-bottom: 1em;
-    }
-}
-
-
-  .links line {
-    stroke: $color-primary;
-    opacity: 0.5;
-  }
-
-.nodes circle {
-    cursor: pointer;
-    fill: $color-primary;
-    transition: all 0.15s ease-out;
-  }
-
-  .text text {
-    cursor: pointer;
-    fill: $color-subtext;
-  }
-
-  .nodes [active],
-  .text [active] {
-      cursor: pointer;
-      fill: $color-primary;
-      font-weight: bold;
-      text-decoration: underline;
-      
-  }
-
-  .inactive {
-    opacity: 0.4;
-    transition: all 0.15s ease-out;
-  }
-
-
-  #graph-wrapper svg {
-      background: $color-inner-divs;
-      height: 40em;
-      border: 2px solid brown;
-      border-radius: 10px;
-
-  }
-
-
-
-/* LISTS AND TABLES
-================================================== */ 
-
-ol li {
-    list-style-type: decimal;
-}
-
-ol li li {
-    list-style-type: lower-alpha;
-}
-
-ul li {
-    list-style-type: disc;
-}
-
-ul li li {
-    list-style-type: square;
-}
-
-table, tr, td {
-    border: thin solid;
-    border-collapse: collapse;
-    padding: 0.5em;
-    margin: auto;
-    background-color: $color-inner-divs;
-}
-
 
 /* BORDERS
 ================================================== */
 
 // Border around your posts
  article, .index-card {
-    border: $article-border;
+    border: 2px solid white;
     box-sizing: border-box;
 }
 
 // Border around the items in the sidebar
 .sidebar-card, .border {
-    border: $sidebar-border;
+    border: 0px solid white;
     box-sizing: border-box;
     margin-bottom: 1em;
         border-radius: 5px;
@@ -925,7 +841,7 @@ table, tr, td {
 
 .right-aside {
     float: right;
-    border: $embed-border;
+    border: 2px solid white;
     padding: 1em;
     width: 40%;
     margin-left: 0.5em;
@@ -936,7 +852,7 @@ table, tr, td {
 
 .left-aside {
     float: left;
-    border: $embed-border;
+    border: 2px solid white;
     padding: 1em;
     width: 40%;
     margin-left: 1em;
