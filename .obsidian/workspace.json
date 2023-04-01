@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "_scrapbook/Predictive Processing and the Free Energy Principle.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "_scrapbook/Predictive Processing and the Free Energy Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "_scrapbook/Predictive Processing and the Free Energy Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "_scrapbook/Predictive Processing and the Free Energy Principle.md"
               }
             }
           },
@@ -169,14 +169,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "f8424291878956a8",
   "lastOpenFiles": [
+    "_daily/2023-04-01.md",
+    "_articles/Untitled.md",
+    "_daily/2022-05-11.md",
+    "_journal/chinese-ginseng-chicken-tonic-soup.md",
     "ring.md",
-    "Untitled.md",
     "_articles/Exocore Executive Summary.md",
     "Untitled",
     "_articles/Configure Exocore for Personal Use.md",
-    "_daily/2023-04-01.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
@@ -184,7 +186,6 @@
     "_articles/Exocore Installation Instructions.md",
     "_articles/Writing with Exocore Syntax.md",
     "assets/imgs/bg-yotsuba.gif",
-    "_daily/2022-10-23.md",
-    "_daily/2022-05-11.md"
+    "_daily/2022-10-23.md"
   ]
 }
