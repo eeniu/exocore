@@ -11,8 +11,12 @@
             "id": "29f8fb92a340f1f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_daily/2023-04-01.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -82,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2022-05-11.md",
+                "file": "_daily/2023-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2022-05-11.md",
+                "file": "_daily/2023-04-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2022-05-11.md"
+                "file": "_daily/2023-04-01.md"
               }
             }
           },
@@ -153,8 +157,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf91471a0053b065",
+  "active": "29f8fb92a340f1f2",
   "lastOpenFiles": [
+    "_daily/2023-04-01.md",
     "_articles/Untitled.md",
     "_daily/2022-05-11.md",
     "_journal/newinternet.md",
@@ -170,7 +175,6 @@
     "_journal/korean-ginseng-chicken-soup.md",
     "_journal/jade-post.md",
     "_journal/exocore-workflow.md",
-    "_daily/2023-04-01.md",
     "ring.md",
     "_config.yml.sb-4e2c3c5e-aZFut1",
     "assets/imgs/pfp.png",
