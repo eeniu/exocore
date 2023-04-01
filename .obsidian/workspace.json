@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2022-05-11.md",
+                "file": "_articles/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2022-05-11.md",
+                "file": "_articles/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2022-05-11.md",
+                "file": "_articles/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2022-05-11.md"
+                "file": "_articles/Untitled.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "8445f316356f3265",
   "lastOpenFiles": [
+    "_daily/2022-05-11.md",
     "_daily/2023-04-01.md",
     "_articles/Untitled.md",
-    "_daily/2022-05-11.md",
     "_journal/newinternet.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_wiki/L-Dopa.md",
