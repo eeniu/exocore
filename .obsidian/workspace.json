@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_scrapbook/Predictive Processing and the Free Energy Principle.md",
+                "file": "_articles/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_scrapbook/Predictive Processing and the Free Energy Principle.md",
+                "file": "_articles/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_scrapbook/Predictive Processing and the Free Energy Principle.md",
+                "file": "_articles/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_scrapbook/Predictive Processing and the Free Energy Principle.md"
+                "file": "_articles/Untitled.md"
               }
             }
           },
@@ -156,12 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "f8424291878956a8",
   "lastOpenFiles": [
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "assets/imgs/pfp.png",
     "assets/imgs/pfp.jpeg",
     "assets/imgs/969-94628.jpeg",
-    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "ring.md",
     "_daily/2023-04-01.md",
     "_articles/Untitled.md",
