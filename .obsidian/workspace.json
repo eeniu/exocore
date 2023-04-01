@@ -11,12 +11,8 @@
             "id": "f8424291878956a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ring.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ring.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8424291878956a8",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "readme.md",
     "ring.md",
+    "readme.md",
     "_articles/Untitled.md",
     "_config.yml.sb-4e2c3c5e-aZFut1",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
