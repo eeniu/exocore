@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_daily/2022-05-11.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_daily/2022-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_daily/2022-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_daily/2022-05-11.md"
               }
             }
           },
@@ -158,27 +158,27 @@
   },
   "active": "f8424291878956a8",
   "lastOpenFiles": [
+    "_articles/Untitled.md",
+    "_daily/2022-05-11.md",
+    "_journal/newinternet.md",
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
+    "_wiki/L-Dopa.md",
+    "_journal/chinese-ginseng-chicken-tonic-soup.md",
+    "index.md",
     "images/fairy_wars.jpeg",
     "images/fairy wars.jpeg",
     "images/furbus.png",
     "readme.md",
-    "index.md",
     "_wiki/usufruct.md",
-    "_wiki/L-Dopa.md",
-    "_journal/newinternet.md",
     "_journal/korean-ginseng-chicken-soup.md",
     "_journal/jade-post.md",
     "_journal/exocore-workflow.md",
-    "_journal/chinese-ginseng-chicken-tonic-soup.md",
-    "_articles/Untitled.md",
     "_daily/2023-04-01.md",
     "ring.md",
     "_config.yml.sb-4e2c3c5e-aZFut1",
-    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "assets/imgs/pfp.png",
     "assets/imgs/pfp.jpeg",
     "assets/imgs/969-94628.jpeg",
-    "_daily/2022-05-11.md",
     "_articles/Exocore Executive Summary.md",
     "Untitled",
     "_articles/Configure Exocore for Personal Use.md",
