@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "index.md"
               }
             }
           },
@@ -156,8 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8424291878956a8",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "images/furbus.png",
+    "readme.md",
+    "index.md",
     "_wiki/usufruct.md",
     "_wiki/L-Dopa.md",
     "_journal/newinternet.md",
@@ -168,7 +171,6 @@
     "_articles/Untitled.md",
     "_daily/2023-04-01.md",
     "ring.md",
-    "readme.md",
     "_config.yml.sb-4e2c3c5e-aZFut1",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "assets/imgs/pfp.png",
