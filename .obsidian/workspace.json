@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Untitled.md",
+                "file": "ring.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Untitled.md",
+                "file": "ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Untitled.md",
+                "file": "ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Untitled.md"
+                "file": "ring.md"
               }
             }
           },
@@ -158,14 +158,15 @@
   },
   "active": "f8424291878956a8",
   "lastOpenFiles": [
+    "readme.md",
+    "ring.md",
+    "_articles/Untitled.md",
     "_config.yml.sb-4e2c3c5e-aZFut1",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "assets/imgs/pfp.png",
     "assets/imgs/pfp.jpeg",
     "assets/imgs/969-94628.jpeg",
-    "ring.md",
     "_daily/2023-04-01.md",
-    "_articles/Untitled.md",
     "_daily/2022-05-11.md",
     "_journal/chinese-ginseng-chicken-tonic-soup.md",
     "_articles/Exocore Executive Summary.md",
