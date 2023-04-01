@@ -5,7 +5,7 @@ title: Home
 
 # Groler Tea Rejuvenation
 
-[![](/images/furbus.png)](/articles/Untitled/)
+[![](/images/fairywars.jpeg)](/articles/Untitled/)
 
 ## Executive Summary
 
