@@ -21,7 +21,7 @@ $color-box-shadow: none;
 
 /* --- Borders --- */
 $article-border: none;
-$sidebar-border: 2px solid green;
+$sidebar-border: 0px solid brown;
 $prev-next-border: none;
 $color-item-border: none;
 $border-radius: 5px;
@@ -36,7 +36,7 @@ $footnote-border: 2px solid brown;
 $color-footnote-background: white;
 $color-footnote-text: black;
 
-$sidenote-border: thin solid $color-primary;
+$sidenote-border: 0px solid $color-primary;
 $color-sidenote-background: none;
 $color-sidenote-text: brown;
 
