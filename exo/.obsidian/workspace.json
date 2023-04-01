@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "150da4a0f98492af",
+    "id": "2820dfb27a19aae1",
     "type": "split",
     "children": [
       {
-        "id": "9a6d7b65dfe24a65",
+        "id": "ca8edd09c0fc3ed5",
         "type": "tabs",
         "children": [
           {
-            "id": "68bdb0177a6320a6",
+            "id": "0c8a39f2b0fda2aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ring.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f8424291878956a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "22d926cb2abf128e",
+    "id": "34a7ce5dedd8599a",
     "type": "split",
     "children": [
       {
-        "id": "1d02e7500b377dc9",
+        "id": "44ae0f469425f8fa",
         "type": "tabs",
         "children": [
           {
-            "id": "e509f202f4abd033",
+            "id": "7e3bc554c30ebc77",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "cf91471a0053b065",
+            "id": "b0941a1791bf48ee",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "edda9e9b7c04de0d",
+            "id": "3f2e8dca8d3c5114",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -82,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296
+    "width": 300
   },
   "right": {
-    "id": "fa5c2b51a2ba60c1",
+    "id": "f1ed0ba725c55571",
     "type": "split",
     "children": [
       {
-        "id": "0f4884f40f957bf2",
+        "id": "fd88f7fbb9c95bf3",
         "type": "tabs",
         "children": [
           {
-            "id": "8ed0ef8d7e095b52",
+            "id": "56cba41e50aafcf3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "a501e8b62ac40d8b",
+            "id": "ad59c37518baa75f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f504780cf020cd31",
+            "id": "a27af3a6e3d0786a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,25 +114,14 @@
             }
           },
           {
-            "id": "528fa5a3a1750465",
+            "id": "94fcb00a14aaf56d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
-            }
-          },
-          {
-            "id": "aba8275b4914b122",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,26 +135,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "7e3bc554c30ebc77",
   "lastOpenFiles": [
-    "ring.md",
-    "Untitled.md",
-    "_articles/Exocore Executive Summary.md",
     "Untitled",
-    "_articles/Configure Exocore for Personal Use.md",
-    "_daily/2023-04-01.md",
-    "_daily/2022-10-29.md",
-    "_daily/2022-10-27.md",
-    "_articles/table test.md",
-    "_daily/2022-10-25.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_articles/Writing with Exocore Syntax.md",
-    "assets/imgs/bg-yotsuba.gif",
-    "_daily/2022-10-23.md",
-    "_daily/2022-05-11.md"
+    "Untitled.md"
   ]
 }
